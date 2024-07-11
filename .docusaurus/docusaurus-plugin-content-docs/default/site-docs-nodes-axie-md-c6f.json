@@ -1,0 +1,25 @@
+{
+  "id": "Nodes/axie",
+  "title": "Axie Infinity",
+  "description": "Q: How many Axie Infinity nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/axie.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/axie",
+  "permalink": "/docs/Nodes/axie",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Axie Infinity"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Support Nodes",
+    "permalink": "/docs/nodes"
+  },
+  "next": {
+    "title": "Ethereum",
+    "permalink": "/docs/Nodes/ethereum"
+  }
+}

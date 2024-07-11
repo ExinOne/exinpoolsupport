@@ -1,0 +1,25 @@
+{
+  "id": "nodes",
+  "title": "Support Nodes",
+  "description": "The currently supported nodes are as follows.",
+  "source": "@site/docs/nodes.md",
+  "sourceDirName": ".",
+  "slug": "/nodes",
+  "permalink": "/docs/nodes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Support Nodes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Reserves Plan",
+    "permalink": "/docs/ReservesPlan"
+  },
+  "next": {
+    "title": "Axie Infinity",
+    "permalink": "/docs/Nodes/axie"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Nodes/ethereum",
+  "title": "Ethereum",
+  "description": "Q: What types of Ethereum nodes does ExinPool currently support?",
+  "source": "@site/docs/Nodes/ethereum.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/ethereum",
+  "permalink": "/docs/Nodes/ethereum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ethereum"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Axie Infinity",
+    "permalink": "/docs/Nodes/axie"
+  },
+  "next": {
+    "title": "Mixin Network",
+    "permalink": "/docs/Nodes/mixin"
+  }
+}

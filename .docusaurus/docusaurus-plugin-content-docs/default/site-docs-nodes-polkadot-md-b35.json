@@ -1,0 +1,25 @@
+{
+  "id": "Nodes/polkadot",
+  "title": "Polkadot",
+  "description": "Q: How many Polkadot nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/polkadot.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/polkadot",
+  "permalink": "/docs/Nodes/polkadot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Polkadot"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Mixin Network",
+    "permalink": "/docs/Nodes/mixin"
+  },
+  "next": {
+    "title": "Solana",
+    "permalink": "/docs/Nodes/solana"
+  }
+}

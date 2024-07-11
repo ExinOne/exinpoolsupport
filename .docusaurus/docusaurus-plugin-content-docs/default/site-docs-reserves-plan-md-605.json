@@ -1,0 +1,25 @@
+{
+  "id": "ReservesPlan",
+  "title": "Reserves Plan",
+  "description": "In the world of digital assets, time is money. We understand that waiting to join or exit a node in the staking process could mean missing out on valuable opportunities. Therefore, to greatly enhance your staking experience, ExinPool has specially introduced the \"Reserve Fund Plan\" for SOL and DOT.",
+  "source": "@site/docs/ReservesPlan.md",
+  "sourceDirName": ".",
+  "slug": "/ReservesPlan",
+  "permalink": "/docs/ReservesPlan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Reserves Plan"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Staking Rewards Distribution Schedule",
+    "permalink": "/docs/rewards"
+  },
+  "next": {
+    "title": "Support Nodes",
+    "permalink": "/docs/nodes"
+  }
+}

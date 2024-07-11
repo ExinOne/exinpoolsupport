@@ -1,0 +1,21 @@
+{
+  "id": "Nodes/solana",
+  "title": "Solana",
+  "description": "Q: How many Solana nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/solana.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/solana",
+  "permalink": "/docs/Nodes/solana",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Solana"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Polkadot",
+    "permalink": "/docs/Nodes/polkadot"
+  }
+}

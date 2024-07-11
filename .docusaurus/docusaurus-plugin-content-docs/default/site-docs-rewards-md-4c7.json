@@ -1,0 +1,25 @@
+{
+  "id": "rewards",
+  "title": "Staking Rewards Distribution Schedule",
+  "description": "Thank you for choosing ExinPool! ExinPool currently operates nodes for XIN, ETH (ETH-Restaking), DOT, SOL, and AXS. To ensure transparency, we guarantee that all node assets are staked on-chain, and you can verify this via this link.",
+  "source": "@site/docs/rewards.md",
+  "sourceDirName": ".",
+  "slug": "/rewards",
+  "permalink": "/docs/rewards",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Staking Rewards Distribution Schedule"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Verify",
+    "permalink": "/docs/Verify"
+  },
+  "next": {
+    "title": "Reserves Plan",
+    "permalink": "/docs/ReservesPlan"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "introduction",
+              "path": "/docs/introduction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "nodes",
+              "path": "/docs/nodes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/axie",
+              "path": "/docs/Nodes/axie",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/ethereum",
+              "path": "/docs/Nodes/ethereum",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/mixin",
+              "path": "/docs/Nodes/mixin",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/polkadot",
+              "path": "/docs/Nodes/polkadot",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/solana",
+              "path": "/docs/Nodes/solana",
+              "sidebar": "docs"
+            },
+            {
+              "id": "ReservesPlan",
+              "path": "/docs/ReservesPlan",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rewards",
+              "path": "/docs/rewards",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Verify",
+              "path": "/docs/Verify",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/introduction",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "/__docusaurus/debug/-546": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/config/-8a8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/content/-259": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    },
+    "__props": "__props---docusaurus-debug-content-91-a-07b"
+  },
+  "/__docusaurus/debug/globalData/-178": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/metadata/-d6c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/registry/-6e3": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/routes/-cab": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/markdown-page/-54d": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-a-74-60f"
+    },
+    "content": "content---markdown-page-393-038"
+  },
+  "/showcase/-7e6": {
+    "__comp": "__comp---site-src-pages-showcase-index-js-2-a-6-874",
+    "__context": {
+      "plugin": "plugin---markdown-page-a-74-60f"
+    },
+    "config": "config---showcase-5-e-9-25a"
+  },
+  "/docs/-0cf": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-aba-4f5"
+    }
+  },
+  "/docs/-bb6": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-ea-8-e96"
+  },
+  "/docs/-b45": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/introduction/-739": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-a-09-698"
+  },
+  "/docs/nodes/-6ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nodes-3-f-6-944"
+  },
+  "/docs/Nodes/axie/-732": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nodes-axie-c-6-f-2be"
+  },
+  "/docs/Nodes/ethereum/-87b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nodes-ethereum-0-ca-b3f"
+  },
+  "/docs/Nodes/mixin/-ead": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nodes-mixin-f-2-e-abb"
+  },
+  "/docs/Nodes/polkadot/-891": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nodes-polkadot-b-35-5eb"
+  },
+  "/docs/Nodes/solana/-dd2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nodes-solana-498-37e"
+  },
+  "/docs/ReservesPlan/-39d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reserves-plan-605-0de"
+  },
+  "/docs/rewards/-22d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-rewards-4-c-7-239"
+  },
+  "/docs/Verify/-524": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verify-2-a-8-47f"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-a-74-60f"
+    },
+    "config": "config---showcase-5-e-9-25a"
+  }
+}

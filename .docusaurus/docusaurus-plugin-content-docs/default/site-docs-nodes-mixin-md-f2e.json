@@ -1,0 +1,25 @@
+{
+  "id": "Nodes/mixin",
+  "title": "Mixin Network",
+  "description": "Q: How many Mixin nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/mixin.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/mixin",
+  "permalink": "/docs/Nodes/mixin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mixin Network"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ethereum",
+    "permalink": "/docs/Nodes/ethereum"
+  },
+  "next": {
+    "title": "Polkadot",
+    "permalink": "/docs/Nodes/polkadot"
+  }
+}
